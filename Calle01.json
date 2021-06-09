@@ -1,0 +1,14 @@
+{ "columns":64,
+ "image":"..\/..\/..\/..\/Nueva carpeta\/Tiles\/Calle01.png",
+ "imageheight":1887,
+ "imagewidth":2050,
+ "margin":0,
+ "name":"Calle01",
+ "spacing":0,
+ "tilecount":3712,
+ "tiledversion":"1.6.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}
